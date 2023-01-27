@@ -28,8 +28,8 @@ Print the output
 ```python
 
 #Program to find number of words
-#Developed by: AUGUSTINE
-#RegisterNumber:22009432
+#Developed by: SUDHAKAR K
+#RegisterNumber:22007876
 num = 0
 with open('MyFile.txt','r') as f1:
   for i in f1:
